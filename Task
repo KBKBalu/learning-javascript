@@ -5,7 +5,7 @@ JAVA SCRIPT
 <title> Practice Session</title>
 <body>
 <script type="text/javascript">
-Welcome to learn JavaScript
+document.write("Welcome to learn JavaScript");
 
 </script>
 </body>
