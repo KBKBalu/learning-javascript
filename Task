@@ -4,7 +4,7 @@ JAVA SCRIPT
 </head>
 <title> Practice Session</title>
 <body>
-<script type="text/javascript">
+<script>
 document.write("Welcome to learn JavaScript");
 
 </script>
